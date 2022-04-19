@@ -1,5 +1,7 @@
 package main
 
+// reference: https://www.howtographql.com/graphql-go/0-introduction/
+
 import (
 	"log"
 	"net/http"
